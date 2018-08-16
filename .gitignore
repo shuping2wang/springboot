@@ -1,0 +1,10 @@
+.metadata
+.idea
+RemoteSystemsTempFiles
+*.iml
+*/*.iml
+*/*/*.iml
+*/target
+*/*/target
+log4j2
+logback

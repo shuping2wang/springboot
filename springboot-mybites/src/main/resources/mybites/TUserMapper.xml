@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mapper namespace="com.wsp.springboot.mybites.mapper.TUserMapper">
+    <update id="update">
+        update t_user set user_name = #{userName} WHERE id = #{id}
+    </update>
+</mapper>
